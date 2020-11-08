@@ -9,4 +9,4 @@ var n=function(n,t){return Math.floor(Math.random()*(t-n+1)+n)},t=function(t){va
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./css/common.css"),require("./js/task1"),require("./js/task2"),require("./js/task3");
 },{"./css/common.css":"en75","./js/task1":"u2QS","./js/task2":"n9ff","./js/task3":"T9OW"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.e6b6eb68.js.map
+//# sourceMappingURL=/goit-js-hw-11-promisification/src.e6b6eb68.js.map
